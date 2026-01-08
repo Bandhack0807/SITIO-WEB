@@ -14,3 +14,21 @@ p {
     color: #2c3e50;
     font-size: 18px;
 }
+#encabezado {
+    background-color: #cc23dd;
+    min-height: 200px;
+    height: auto;
+    width: 500px;
+}
+#encabezado h1{
+    color: black;
+}
+.encabezado1 {
+    color: white;
+}
+.encabezado2 {
+    color: aqua;
+}
+.encabezado3 {
+    color: antiquewhite;
+}
